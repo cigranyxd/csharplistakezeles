@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c#\\allat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235099DC-D34A-4EBE-BD75-9503BEF60BA2}|allat\\allat.csproj|c:\\users\\user\\desktop\\c#\\allat\\allat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235099DC-D34A-4EBE-BD75-9503BEF60BA2}|allat\\allat.csproj|solutionrelative:allat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#\\allat\\allat\\Program.cs",
+              "RelativeDocumentMoniker": "allat\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#\\allat\\allat\\Program.cs",
+              "RelativeToolTip": "allat\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAASwI0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:39:53.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

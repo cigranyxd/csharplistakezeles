@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\allat\allat\obj\Debug\allat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\allat\allat\obj\Debug\allat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\allat\allat\bin\Debug\allat.exe.config
+C:\Users\User\Desktop\c#\allat\allat\bin\Debug\allat.exe
+C:\Users\User\Desktop\c#\allat\allat\bin\Debug\allat.pdb
+C:\Users\User\Desktop\c#\allat\allat\obj\Debug\allat.exe
+C:\Users\User\Desktop\c#\allat\allat\obj\Debug\allat.pdb
